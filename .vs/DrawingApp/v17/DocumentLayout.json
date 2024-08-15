@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DrawingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\shapes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\shapes\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\shapes\\polyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\shapes\\polyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\shapes\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\shapes\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|d:\\drawingapp\\drawingapp\\drawingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\drawingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\drawingappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\drawingappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\drawingappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\drawingappform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\vector3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\drawingappform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\drawingappform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|D:\\DrawingApp\\drawingapp\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA2E9D6-006A-4C74-B251-9FEACD99129B}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Yeni klas\u00F6r\\hatice_intern_proya\\SymbolEditor\\src\\editor\\Methods\\Methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\Shapes\\Line.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Shapes\\Line.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\Shapes\\Line.cs",
+              "RelativeToolTip": "DrawingApp\\Shapes\\Line.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:48:45.028Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DrawingAppForm.Designer.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\DrawingAppForm.Designer.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\DrawingAppForm.Designer.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\DrawingAppForm.Designer.cs",
+              "RelativeToolTip": "DrawingApp\\DrawingAppForm.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAWwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:50:27.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\Vector2.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Vector2.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\Vector2.cs",
+              "RelativeToolTip": "DrawingApp\\Vector2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:52:29.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "D:\\Yeni klas\u00F6r\\hatice_intern_proya\\SymbolEditor\\src\\editor\\Methods\\Methods.cs",
+              "RelativeDocumentMoniker": "..\\Yeni klas\u00F6r\\hatice_intern_proya\\SymbolEditor\\src\\editor\\Methods\\Methods.cs",
+              "ToolTip": "D:\\Yeni klas\u00F6r\\hatice_intern_proya\\SymbolEditor\\src\\editor\\Methods\\Methods.cs",
+              "RelativeToolTip": "..\\Yeni klas\u00F6r\\hatice_intern_proya\\SymbolEditor\\src\\editor\\Methods\\Methods.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:47:57.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vector3.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\Vector3.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Vector3.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\Vector3.cs",
+              "RelativeToolTip": "DrawingApp\\Vector3.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAqwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:47:05.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\Methods\\Methods.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Methods\\Methods.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\Methods\\Methods.cs",
+              "RelativeToolTip": "DrawingApp\\Methods\\Methods.cs",
+              "ViewState": "AQIAABQDAAAAAAAAAIAwwCIDAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:44:02.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polyline.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\Shapes\\Polyline.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Shapes\\Polyline.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\Shapes\\Polyline.cs",
+              "RelativeToolTip": "DrawingApp\\Shapes\\Polyline.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:36:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\Shapes\\Polygon.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Shapes\\Polygon.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\Shapes\\Polygon.cs",
+              "RelativeToolTip": "DrawingApp\\Shapes\\Polygon.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwCwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:13:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DrawingAppForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\DrawingAppForm.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\DrawingAppForm.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\DrawingAppForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "DrawingApp\\DrawingAppForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:09:23.883Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrawingManager.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\DrawingManager.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\DrawingManager.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\DrawingManager.cs",
+              "RelativeToolTip": "DrawingApp\\DrawingManager.cs",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAywCYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:48:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DrawingAppForm.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\DrawingAppForm.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\DrawingAppForm.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\DrawingAppForm.cs",
+              "RelativeToolTip": "DrawingApp\\DrawingAppForm.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:48:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Shapes\\Circle.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\Shapes\\Circle.cs",
+              "RelativeToolTip": "DrawingApp\\Shapes\\Circle.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwvzcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:48:13.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\DrawingApp\\DrawingApp\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Shapes\\Shape.cs",
+              "ToolTip": "D:\\DrawingApp\\DrawingApp\\Shapes\\Shape.cs",
+              "RelativeToolTip": "DrawingApp\\Shapes\\Shape.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:48:15.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
